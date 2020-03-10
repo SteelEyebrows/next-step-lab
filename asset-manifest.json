@@ -1,17 +1,16 @@
 {
   "main.css": "/next-step-lab/static/css/main.b0068679.chunk.css",
-  "main.js": "/next-step-lab/static/js/main.d2895a3e.chunk.js",
-  "main.js.map": "/next-step-lab/static/js/main.d2895a3e.chunk.js.map",
+  "main.js": "/next-step-lab/static/js/main.3797484e.chunk.js",
+  "main.js.map": "/next-step-lab/static/js/main.3797484e.chunk.js.map",
   "runtime~main.js": "/next-step-lab/static/js/runtime~main.33be9491.js",
   "runtime~main.js.map": "/next-step-lab/static/js/runtime~main.33be9491.js.map",
-  "static/css/2.929ff005.chunk.css": "/next-step-lab/static/css/2.929ff005.chunk.css",
-  "static/js/2.22edeed4.chunk.js": "/next-step-lab/static/js/2.22edeed4.chunk.js",
-  "static/js/2.22edeed4.chunk.js.map": "/next-step-lab/static/js/2.22edeed4.chunk.js.map",
+  "static/css/2.c689b618.chunk.css": "/next-step-lab/static/css/2.c689b618.chunk.css",
+  "static/js/2.184d5603.chunk.js": "/next-step-lab/static/js/2.184d5603.chunk.js",
+  "static/js/2.184d5603.chunk.js.map": "/next-step-lab/static/js/2.184d5603.chunk.js.map",
   "index.html": "/next-step-lab/index.html",
-  "precache-manifest.9725cb872412ab1fdda8ae6e30eb5461.js": "/next-step-lab/precache-manifest.9725cb872412ab1fdda8ae6e30eb5461.js",
+  "precache-manifest.374e18b163b3c50909411e3d4ecedc84.js": "/next-step-lab/precache-manifest.374e18b163b3c50909411e3d4ecedc84.js",
   "service-worker.js": "/next-step-lab/service-worker.js",
-  "static/css/2.929ff005.chunk.css.map": "/next-step-lab/static/css/2.929ff005.chunk.css.map",
+  "static/css/2.c689b618.chunk.css.map": "/next-step-lab/static/css/2.c689b618.chunk.css.map",
   "static/css/main.b0068679.chunk.css.map": "/next-step-lab/static/css/main.b0068679.chunk.css.map",
-  "static/media/App.css": "/next-step-lab/static/media/silgothic.db99a45d.ttf",
-  "static/media/notifications.css": "/next-step-lab/static/media/notification.c0d3c94c.eot"
+  "static/media/App.css": "/next-step-lab/static/media/silgothic.db99a45d.ttf"
 }
