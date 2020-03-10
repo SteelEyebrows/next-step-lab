@@ -28,16 +28,16 @@ self.__precacheManifest = [
     "url": "/next-step-lab/static/js/main.d2895a3e.chunk.js"
   },
   {
+    "revision": "c0d3c94cd6112550c51d7d1ed13b9da1",
+    "url": "/next-step-lab/static/media/notification.c0d3c94c.eot"
+  },
+  {
     "revision": "651771e1df95c807c99608188d0a4287",
     "url": "/next-step-lab/static/media/notification.651771e1.woff"
   },
   {
     "revision": "0b4ac1dc75df35e169b70d7719afe4cc",
     "url": "/next-step-lab/static/media/notification.0b4ac1dc.ttf"
-  },
-  {
-    "revision": "c0d3c94cd6112550c51d7d1ed13b9da1",
-    "url": "/next-step-lab/static/media/notification.c0d3c94c.eot"
   },
   {
     "revision": "22edeed48cf6d227d360",
