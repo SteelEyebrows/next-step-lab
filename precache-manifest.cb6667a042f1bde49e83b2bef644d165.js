@@ -12,15 +12,15 @@ self.__precacheManifest = [
     "url": "/next-step-lab/static/js/runtime~main.33be9491.js"
   },
   {
-    "revision": "99735b482299a6b507c8",
-    "url": "/next-step-lab/static/js/main.99735b48.chunk.js"
+    "revision": "db24325d761fad1a7324",
+    "url": "/next-step-lab/static/js/main.db24325d.chunk.js"
   },
   {
     "revision": "926a15b6ae46d2a5069f",
     "url": "/next-step-lab/static/js/2.926a15b6.chunk.js"
   },
   {
-    "revision": "99735b482299a6b507c8",
+    "revision": "db24325d761fad1a7324",
     "url": "/next-step-lab/static/css/main.b0068679.chunk.css"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/next-step-lab/static/css/2.66f181af.chunk.css"
   },
   {
-    "revision": "734fca32021e784f712f1b371f3910bb",
+    "revision": "91f27d8c0875a24fd7e5a328d7f8b46f",
     "url": "/next-step-lab/index.html"
   }
 ];
