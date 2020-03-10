@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/next-step-lab/static/js/runtime~main.33be9491.js"
   },
   {
-    "revision": "5bee74caefdf9d0a834915f6c8eeb259",
-    "url": "/next-step-lab/static/media/notification.5bee74ca.svg"
+    "revision": "0b4ac1dc75df35e169b70d7719afe4cc",
+    "url": "/next-step-lab/static/media/notification.0b4ac1dc.ttf"
   },
   {
     "revision": "ffa41f4a4bade25a85b9",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/next-step-lab/static/media/notification.c0d3c94c.eot"
   },
   {
-    "revision": "0b4ac1dc75df35e169b70d7719afe4cc",
-    "url": "/next-step-lab/static/media/notification.0b4ac1dc.ttf"
+    "revision": "5bee74caefdf9d0a834915f6c8eeb259",
+    "url": "/next-step-lab/static/media/notification.5bee74ca.svg"
   },
   {
     "revision": "ffa41f4a4bade25a85b9",
