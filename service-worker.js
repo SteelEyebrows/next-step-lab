@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/next-step-lab/precache-manifest.f3e3df875eac6edc267a88b3173f5a7b.js"
+  "/next-step-lab/precache-manifest.964610d85c678ff3114a51ee9c25089f.js"
 );
 
 workbox.clientsClaim();
